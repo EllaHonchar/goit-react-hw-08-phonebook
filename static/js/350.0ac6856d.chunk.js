@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgoit_react_hw_08_phonebook=self.webpackChunkgoit_react_hw_08_phonebook||[]).push([[350],{350:function(e,n,o){o.r(n),o.d(n,{default:function(){return s}});var t="Home_section__DtjUh",a="Home_text__KSer9",c=o(184);function s(){return(0,c.jsx)("div",{className:t,children:(0,c.jsx)("p",{className:a,children:"This application where you can save your contacts and add new ones"})})}}}]);
+//# sourceMappingURL=350.0ac6856d.chunk.js.map
