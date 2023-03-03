@@ -1,0 +1,17 @@
+.section {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+  height: 100%;
+  text-align: center;
+  margin: 25px;
+  width: 100vw;
+}
+.text {
+  width: content;
+  padding: 15px;
+  font-weight: bold;
+  color: #3a98b9;
+  font-size: 24px;
+}
